@@ -167,6 +167,22 @@ Features:
 
 ---
 
+## Dashboard Preview
+
+### Page 1 - Customer Data Quality Assessment
+
+![Page 1](screenshots/page1_quality_assessment.png)
+
+### Page 2 - Customer Demographics Analysis
+
+![Page 2](screenshots/page2_demographics.png)
+
+### Page 3 - Customer Spending & Campaign Analysis
+
+![Page 3](screenshots/page3_spending_campaigns.png)
+
+---
+
 ## Key Business Insights
 
 * Data quality score achieved 98.71%.
