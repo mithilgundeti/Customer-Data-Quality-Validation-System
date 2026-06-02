@@ -1,0 +1,11 @@
+Validation_Check,Count
+Missing Income,24
+Duplicate IDs,0
+Invalid Birth Years,2
+Invalid Income,0
+Future Dates,0
+Negative Spending,0
+Negative Purchases,0
+Invalid Binary Values,0
+Age Outliers,3
+Income Outliers,8
