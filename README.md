@@ -171,7 +171,7 @@ Features:
 
 ### Page 1 - Customer Data Quality Assessment
 
-![Page 1](screenshots/page1_quality_assessment.png)
+![Page 1](screenshots/page1_quality.png)
 
 ### Page 2 - Customer Demographics Analysis
 
