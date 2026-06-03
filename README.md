@@ -1,5 +1,11 @@
 # Customer Data Quality Validation & Marketing Analytics Dashboard
 
+## Problem Statement
+
+Organizations often face challenges related to poor customer data quality, incomplete demographic information, and ineffective marketing campaign analysis. Inaccurate or inconsistent customer records can negatively impact business intelligence reporting, customer segmentation, and marketing decision-making.
+
+This project aims to build an end-to-end data quality validation and customer analytics workflow using Python and Power BI. The solution identifies data quality issues, validates customer information, analyzes demographic patterns, evaluates customer spending behavior, and measures marketing campaign performance through interactive dashboards.
+
 ## Project Overview
 
 This project focuses on data quality assessment, customer analytics, and marketing campaign performance analysis using Python and Power BI.
